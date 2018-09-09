@@ -1,5 +1,7 @@
 # reward
 
+I have implemented Selenium Tests for the Admin Employee UI and provided a file with other examples of Test Scenarios that should be run. Cucumber has not been implemented, instead an example of what the test would look like is provided in the Design Document.
+
 Files:
 Design Document.docx
 This is the design document which includes the technologies I would use. It also contains Assumptions that I made.
@@ -16,4 +18,4 @@ I've implemented a few of the tests fully to show what they do. The rest of the 
 
 testScenarios.xlsx
 This file contains a Matrix of all the Test Scenarios that I would use on this application.
-Note: I've covered all the ones for the Admin Employee UI, Employee Submit Feedback and Admin Assign Performance Reviews.
+Note: I've covered all the ones for the Admin Employee UI and Admin Assign Performance Reviews.
